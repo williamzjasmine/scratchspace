@@ -6,3 +6,6 @@ def find_mult_sum(n):
 
 print(find_mult_sum(1000))
 
+
+
+
